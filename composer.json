@@ -33,7 +33,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "package": {"php": "5.5.9"}
     },
     "autoload": {
         "classmap": [
